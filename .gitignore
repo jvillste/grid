@@ -1,5 +1,6 @@
 pom.xml
 *jar
+*.svg
 /lib/
 /classes/
 .lein-failures
